@@ -8,6 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-12-F69220?logo=pnpm&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Demo
 
@@ -130,3 +131,7 @@ pnpm start
 
 Issues and pull requests are welcome. For larger changes, please open an issue first
 to discuss what you would like to change.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
