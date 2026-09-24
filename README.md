@@ -121,13 +121,6 @@ pnpm start
 - `next.config.mjs` disables image optimization (`unoptimized: true`), so the app can
   be served statically without an image loader.
 
-## Roadmap
-
-- [ ] Connect a real hotel / booking API behind the mock data layer
-- [ ] Real authentication (Auth.js) and role-based dashboard access
-- [ ] Search, filtering, and map view for the curated selection
-- [ ] i18n (EN/TR) support
-
 ## Contributing
 
 Issues and pull requests are welcome. For larger changes, please open an issue first
