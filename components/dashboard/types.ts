@@ -1,0 +1,10 @@
+export type ViewId =
+  | 'overview'
+  | 'inbox'
+  | 'semantic'
+  | 'benchmarking'
+  | 'surveyStudio'
+  | 'caseManagement'
+  | 'teamKpis'
+  | 'addProperty'
+  | 'settings'
