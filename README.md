@@ -1,8 +1,8 @@
 <p align="center">
-  <video src="https://raw.githubusercontent.com/yavuzzaltay/hotel-aggregator-frontend/main/docs/demo.mp4" width="100%" autoplay muted loop playsinline controls></video>
+  <img src="./docs/demo.gif" width="100%" alt="Auren demo walkthrough" />
 </p>
 <p align="center">
-  <em>One-minute walkthrough of the public site and the intelligence dashboard · <a href="https://github.com/yavuzzaltay/hotel-aggregator-frontend/blob/main/docs/demo.mp4">Watch directly on GitHub</a></em>
+  <em>One-minute walkthrough of the public site and the intelligence dashboard.</em>
 </p>
 
 # Auren — Luxury Hotel Aggregator (Frontend)
