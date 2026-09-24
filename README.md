@@ -1,3 +1,10 @@
+<p align="center">
+  <video src="https://raw.githubusercontent.com/yavuzzaltay/hotel-aggregator-frontend/main/docs/demo.mp4" width="100%" autoplay muted loop playsinline controls></video>
+</p>
+<p align="center">
+  <em>One-minute walkthrough of the public site and the intelligence dashboard · <a href="https://github.com/yavuzzaltay/hotel-aggregator-frontend/blob/main/docs/demo.mp4">Watch directly on GitHub</a></em>
+</p>
+
 # Auren — Luxury Hotel Aggregator (Frontend)
 
 > An ultra-luxury hotel discovery experience paired with a hotel-intelligence dashboard.
@@ -9,12 +16,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-12-F69220?logo=pnpm&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
-## Demo
-
-![Auren demo walkthrough](./docs/demo.mp4)
-
-*One-minute walkthrough of the public site and the intelligence dashboard.*
 
 ## About
 
